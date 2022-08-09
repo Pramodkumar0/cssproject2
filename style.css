@@ -1,0 +1,35 @@
+.test
+{    background-color: rgb(246, 239, 230);
+     font-size: 22px;
+     text-align: center;
+}
+.material-icons
+
+{
+   
+    background-color: #00A5EC;
+    color: black;
+    font-size: 35px;
+    text-align: center;
+}
+.container
+{    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    background-color: antiquewhite;
+    
+
+
+
+}
+.box
+{   margin: 30px;
+    width: 250px;
+    height: 250px;
+    width: 250px;
+    border: 2px solid wheat;
+    border-radius: 15px;
+
+
+
+}
